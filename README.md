@@ -1,1 +1,1 @@
-# ux-reasearch-agent
+# ux-research-agent
