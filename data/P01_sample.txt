@@ -1,0 +1,18 @@
+Interviewer: Thanks for joining. Can you tell me a bit about how you use the platform in a normal week?
+P01: Sure. I'm in my second year of computer science, so mostly I use it for the extra practice problems and the algorithms course. Probably four or five days a week.
+Interviewer: What does a typical session look like?
+P01: I open it on my laptop after dinner, do a lesson or two, and then my phone starts buzzing. I get maybe six or seven notifications a day, and honestly I swiped them all away so many times that I just stopped reading them.
+Interviewer: What kind of notifications are those?
+P01: Everything. New course suggestions, "you haven't studied today," someone replied to a thread I never opened. It's all the same buzz, so I can't tell which one actually matters.
+Interviewer: Have you changed any settings to deal with that?
+P01: I tried. I went into settings and there are, like, fourteen toggles. I turned some off, but then I missed a deadline reminder, so I turned them back on. Now I just ignore everything.
+Interviewer: Let's talk about progress. How do you know how you're doing?
+P01: That's the part I find confusing. There's a percentage bar on each course, but it doesn't tell me if I'm ready for the exam. I finished ninety percent of the videos and still bombed the first quiz.
+Interviewer: So the bar doesn't match how you feel about your understanding.
+P01: Exactly. It counts what I clicked on, not what I learned.
+Interviewer: Is there anything on the platform that does keep you going?
+P01: The streak counter, weirdly. I'm on a forty-day streak and I really don't want to break it. It's the only reason I open the app on days I'm tired.
+Interviewer: Interesting. And what about the cost, how do you feel about the subscription?
+P01: I signed up for the free trial and forgot to cancel before it ended, so I got charged for a month I barely used. Now every time I see the price page I get a bit nervous about what I'm actually paying for.
+Interviewer: Anything else you'd change?
+P01: Maybe the color of the dark mode, it's a bit harsh. But that's minor. Mostly I'd just want fewer pings and a progress view I can trust.

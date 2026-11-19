@@ -1,0 +1,38 @@
+{
+  "domain": "student learning platform",
+  "research_question": "What frustrates and motivates students when using an online learning platform for coursework and self-study?",
+  "tag_taxonomy": [
+    "pain_point", "workaround", "goal", "feature_request", "confusion",
+    "positive_reaction", "pricing", "motivation", "social", "accessibility"
+  ],
+  "themes": {
+    "T1": {"label": "Notification overload; reminders get ignored", "type": "major"},
+    "T2": {"label": "Hard to find specific content (weak search)", "type": "major"},
+    "T3": {"label": "Progress tracking is unclear or unmotivating", "type": "major"},
+    "T4": {"label": "Video lectures too long; want short chunks", "type": "major"},
+    "T5": {"label": "Isolation: no peer interaction or study groups", "type": "medium"},
+    "T6": {"label": "Need offline / mobile access", "type": "minority"},
+    "T7": {"label": "Accessibility gaps (screen reader, dyslexia-friendly text)", "type": "minority"},
+    "T8": {"label": "Subscription anxiety: trial-then-cancel, unclear pricing", "type": "minority"},
+    "T9": {"label": "Streaks: motivating for some, stressful for others", "type": "contradiction"}
+  },
+  "participants": {
+    "P01": {"role": "undergrad, computer science", "themes": ["T1", "T3", "T8", "T9+"]},
+    "P02": {"role": "grad student, biology", "themes": ["T1", "T2", "T4"]},
+    "P03": {"role": "high school senior", "themes": ["T2", "T3", "T5"]},
+    "P04": {"role": "undergrad, nursing", "themes": ["T1", "T3", "T5"]},
+    "P05": {"role": "adult learner, career switcher", "themes": ["T1", "T2", "T4", "T7"]},
+    "P06": {"role": "undergrad, economics", "themes": ["T2", "T3", "T6"]},
+    "P07": {"role": "undergrad, design", "themes": ["T1", "T4", "T6", "T9+"]},
+    "P08": {"role": "grad student, law", "themes": ["T2", "T4", "T5"]},
+    "P09": {"role": "high school junior", "themes": ["T1", "T3", "T8", "T9-"]},
+    "P10": {"role": "community college student", "themes": ["T2", "T4", "T6"]},
+    "P11": {"role": "undergrad, psychology", "themes": ["T1", "T4", "T5"]},
+    "P12": {"role": "grad student, mathematics", "themes": ["T2", "T3", "T7", "T9-"]}
+  },
+  "expected_counts": {
+    "T1": 7, "T2": 7, "T3": 6, "T4": 6, "T5": 4, "T6": 3, "T7": 2, "T8": 2,
+    "T9+": 2, "T9-": 2
+  },
+  "notes": "Theme codes T9+ / T9- mark the positive / negative side of the streak contradiction. A good synthesis agent should report BOTH sides rather than smoothing them into one claim, and should surface T6, T7, T8 even though they are mentioned by only 2-3 participants."
+}
